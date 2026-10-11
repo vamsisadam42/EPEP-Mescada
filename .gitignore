@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Alembic cache
+alembic/versions/*.pyc
+
+# Environment files
+.env
+
+# Frontend (when added)
+node_modules/
+dist/
